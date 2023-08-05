@@ -4,8 +4,7 @@
 
 ```
   python==3.8.5
-  torch==1.9.0+cu111
-  transformers==4.8.2
+  torch==1.9.0
 ```
 
 #### Datasets:
