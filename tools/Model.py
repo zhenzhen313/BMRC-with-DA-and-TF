@@ -45,7 +45,7 @@ class BERTModel(nn.Module):
             return predict
         elif step == 'S':
             classifier_input2, _ = self.gru(bert_output)
-            classifier_input = torch.cat((classifier_input * 0.2, classifier_input2 * 0.8), dim=2)
+            classifier_input = torch.cat((classifier_input * 0.5, classifier_input2 * 0.5), dim=2)
             predict = self.classifier_sentiment1(classifier_input)
             predict = predict.view([predict.size(0), -1])
             predict = self.classifier_sentiment2(predict)
