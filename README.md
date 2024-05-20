@@ -6,7 +6,7 @@
 
 The framework of the BMRC-with-DA-and-TF:
 
-![](image/structure-eps-converted-to_00_-sZ5Z08tpu.png)
+![](structure-eps-converted-to_00_-sZ5Z08tpu.png)
 
 #### Requirements:
 
