@@ -1,7 +1,5 @@
 # Aspect sentiment triplet extraction based on data augmentation and task feedback
 
-***
-
 #### Author: Shu Liu, Tingting Lu, Kaiwen Li, Weihua Liu
 
 The framework of the BMRC-with-DA-and-TF:
@@ -29,4 +27,18 @@ Training different versions of datasets can modify the value of dataset\_version
 
 ```python
 dataset_version = "v2/"
+```
+#### Citation Information:
+If you found this paper useful, citing the paper would be greatly appreciated.
+```python
+@article{liu_aspect_2024,
+	title = {Aspect sentiment triplet extraction based on data augmentation and task feedback},
+	issn = {1573-7675},
+	url = {https://doi.org/10.1007/s10844-024-00855-y},
+	doi = {10.1007/s10844-024-00855-y},
+	journal = {Journal of Intelligent Information Systems},
+	author = {Liu, Shu and Lu, Tingting and Li, Kaiwen and Liu, Weihua},
+	month = may,
+	year = {2024},
+}
 ```
