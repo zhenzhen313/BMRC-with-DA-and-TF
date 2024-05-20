@@ -30,7 +30,7 @@ dataset_version = "v2/"
 ```
 #### Citation Information:
 If you found this paper useful, citing the paper would be greatly appreciated.
-```python
+```
 @article{liu_aspect_2024,
 	title = {Aspect sentiment triplet extraction based on data augmentation and task feedback},
 	issn = {1573-7675},
