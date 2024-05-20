@@ -1,5 +1,3 @@
-# 新页面
-
 # Aspect sentiment triplet extraction based on data augmentation and task feedback
 
 ***
